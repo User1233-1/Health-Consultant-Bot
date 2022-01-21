@@ -1,11 +1,9 @@
  
-This project is made for Future Ready Talent Program.
+**Project Title: Health-Consultant-Bot**
 
 The Website that is currently Working  : https://sites.google.com/view/healthconsultantbot/home
 
-#Project Title: Health-Consultant-Bot
-
-Problem Statement:A lot of people face some problems which affect them physically as well as mentally. For physical problems people feel the need to visit a doctor or someone who could guide them regarding their health. But For Mental issues it gets very difficult for a person to express his/her thoughts or feelings. 
+**Problem Statement**:A lot of people face some problems which affect them physically as well as mentally. For physical problems people feel the need to visit a doctor or someone who could guide them regarding their health. But For Mental issues it gets very difficult for a person to express his/her thoughts or feelings. 
  
 We as human beings love to interact and convey our thoughts but getting someone right beside us is not always possible so there must be something such as a chatbot that can bridge the gap of a person and can provide justified solutions to the questions  asked.
  
@@ -20,7 +18,7 @@ Video url :https://youtu.be/g-mWHumOTK4
 Project url :https://sites.google.com/view/healthconsultantbot/home
 
 Screenshots : 
- 1. Creation of Knowledge Base
+1. Creation of Knowledge Base
 ![Screenshot (107)](https://user-images.githubusercontent.com/91525659/150602695-31ef685c-a179-468d-b7ea-16330d682821.png)
 
 2.Deployed It in Web App Linked with Github 
