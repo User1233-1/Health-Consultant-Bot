@@ -1,6 +1,9 @@
  
 **Project Title: Health-Consultant-Bot**
 
+Deployment on Azure Itself (which isnt working )
+https://health-consultant-webapp.azurewebsites.net/
+
 The Website that is currently Working  : https://sites.google.com/view/healthconsultantbot/home
 
 **Problem Statement**:A lot of people face some problems which affect them physically as well as mentally. For physical problems people feel the need to visit a doctor or someone who could guide them regarding their health. But For Mental issues it gets very difficult for a person to express his/her thoughts or feelings. 
