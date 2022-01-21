@@ -24,8 +24,11 @@ Screenshots :
 1. Creation of Knowledge Base
 ![Screenshot (107)](https://user-images.githubusercontent.com/91525659/150602695-31ef685c-a179-468d-b7ea-16330d682821.png)
 
-2.Deployed It in Web App Linked with Github 
+2. Resource Group with Bot
+![Screenshot (110)](https://user-images.githubusercontent.com/91525659/150604316-a91d6ffd-b241-4070-a14f-261ed510b57f.png)
+
+3.Deployed It in Web App Linked with Github 
 ![Screenshot (109)](https://user-images.githubusercontent.com/91525659/150602824-db5f8775-122e-4ad0-b95b-7980d067eedf.png)
 
-AS the project wasnt working with Web App and Static Web App and was constantly throwing errors so I was bound to embed the code in Google Sites . And it is a full fledged Working Project .
+As the project wasnt working with Web App and Static Web App and was constantly throwing errors so I was bound to embed the code in Google Sites . And it is a full fledged Working Project .
 
